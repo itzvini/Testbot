@@ -1,8 +1,8 @@
 from highrise.__main__ import BotDefinition, main, import_module, arun
 import time
 
-room_id = "Room id in here"
-bot_token = "Bot token in here"
+room_id = "634b1d865fe6f2c1cd36975f"
+bot_token = "ec2e42db96e06b6e8c6b59611e74eda7ca8f89264a07dabcc567c44fcadcca9c"
 bot_file = "main"
 bot_class = "MyBot"
 
